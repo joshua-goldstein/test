@@ -8,7 +8,7 @@ dd
  
 git checkout main # originsadsad
 git fetch public
-git merge public/main
+git merge public/mainsdfsdfdf
 git push # origin
 
 joshua@joshua-local:~/Developer/joshua-goldstein/test-private$ git remote -v
