@@ -8,7 +8,7 @@ dd
  sdfsf
 git checkout main # originsadsad
 git fetch public
-git merge public/mainsdfsdfdfasdasdsd
+git merge public/mainsdfsdfdfasdasdsdsdsd
 git push # origin
 asdasd
 joshua@joshua-local:~/Developer/joshua-goldstein/test-private$ git remote -v
