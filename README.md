@@ -3,7 +3,7 @@ public
 asdasdjkjlj
 something newdsd
 dd
-# origin = private repo
+# origin = private reposdsd
 # public = public repo
  sdfsfddsdsd
 git checkout main # originsadsadsdsadasdd
