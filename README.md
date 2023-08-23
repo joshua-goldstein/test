@@ -7,7 +7,7 @@ dd
 # public = public repo
  sdfsfddsdsd
 git checkout main # originsadsadsdsadasdd
-git fetch publicasdasddsadsadd
+git fetch publicasdasddsaasdasddsadd
 git merge public/mainsdfsdfdfasdasdsdsdsd
 git push # originfff
 asdasd
